@@ -1,13 +1,13 @@
 {
-  "name": "github-preview",
-  "description": "Github preview theme for Inkdrop Markdown Editor",
+  "name": "default-preview",
+  "description": "GitHub-style Markdown preview theme",
   "version": "2.0.0",
   "theme": "preview",
   "scripts": {},
   "repository": "https://github.com/inkdropapp/inkdrop-github-preview-theme",
   "license": "MIT",
   "styleSheets": [
-    "github-markdown.css"
+    "index.css"
   ],
   "engines": {
     "inkdrop": "^6.x"
