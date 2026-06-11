@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "theme": "preview",
   "scripts": {},
-  "repository": "https://github.com/inkdropapp/inkdrop-github-preview-theme",
+  "repository": "https://github.com/inkdropapp/default-preview",
   "license": "MIT",
   "styleSheets": [
     "index.css"
